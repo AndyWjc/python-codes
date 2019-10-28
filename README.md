@@ -1,4 +1,4 @@
-# python-codes
+# Crawl the static resources of the entire site
 The repository is the record of some python codes.
 
 # python爬虫抓取纯静态网站及其资源
